@@ -1,0 +1,41 @@
+form{
+    display: flex;
+    justify-content: center;
+    width: 45em;
+    background-color: white;
+    border-radius: 5em;
+    padding: 3em;
+}
+
+button{
+    width: 15em;
+    height: 3em;
+    background: cadetblue;
+    color: white;
+    border: none;
+    border-radius: 1em;
+    margin-left: 2em;
+}
+
+input{
+    width: 12em;
+    height: 3em;
+    text-align: center;
+    margin-right: 1em;
+    border-radius: 1em;
+}
+
+select{
+    width: 12em;
+    height: 3.4em;
+    text-align: center;
+    margin-left: 1em;
+    border-radius: 1em;
+}
+
+option{
+    font-size: 14px;
+    padding: 5px;
+    background: #5c5c5c;
+    text-align: center;
+}

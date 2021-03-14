@@ -1,0 +1,15 @@
+.Result{
+    display: flex;
+    font-size: xx-large;
+    margin-top: 1em;
+}
+
+div{
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+
+h3, h4{
+    margin: 0.2em;
+}
