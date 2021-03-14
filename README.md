@@ -14,6 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm run build` fails to minify
+### The principle of operation of a simple application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enter the amount, select the currency and press the "Przelicz" button to convert the amount into PLN. The current exchange rate is downloaded from the NBP API.
